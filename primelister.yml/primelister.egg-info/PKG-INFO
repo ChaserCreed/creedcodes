@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: primelister
+Version: 0.0.1
+Summary: A simple list of all primes under 1,000,000.
+Author: Chase Reed
+Author-email: Chasereed00000@gmail.com
+License-File: LICENSE

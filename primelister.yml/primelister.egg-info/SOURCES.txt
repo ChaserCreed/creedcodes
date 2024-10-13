@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+primelister.egg-info/PKG-INFO
+primelister.egg-info/SOURCES.txt
+primelister.egg-info/dependency_links.txt
+primelister.egg-info/top_level.txt
