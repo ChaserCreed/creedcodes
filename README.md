@@ -1,0 +1,1 @@
+Primelister is a simple list of all primes under 1,000,000, and can be installed via "pip install primelister".
